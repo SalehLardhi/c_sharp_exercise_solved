@@ -1,0 +1,6 @@
+D:\C# projects\Homework_theory\Homework_theory\bin\Debug\Homework_theory.exe.config
+D:\C# projects\Homework_theory\Homework_theory\bin\Debug\Homework_theory.exe
+D:\C# projects\Homework_theory\Homework_theory\bin\Debug\Homework_theory.pdb
+D:\C# projects\Homework_theory\Homework_theory\obj\Debug\Homework_theory.csprojResolveAssemblyReference.cache
+D:\C# projects\Homework_theory\Homework_theory\obj\Debug\Homework_theory.exe
+D:\C# projects\Homework_theory\Homework_theory\obj\Debug\Homework_theory.pdb
